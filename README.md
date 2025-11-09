@@ -68,7 +68,7 @@ Improved storytelling and presentation of business insights through Power BI.
 
 Clone the repository
 
-    git clone https://github.com/arnavpathak10/Uber-Trip-Analysis.git
+    https://github.com/arnavpathak10/UberDataAnalysisPowerBI.git
 
 
 Open the .pbix file in Power BI Desktop
