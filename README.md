@@ -46,8 +46,12 @@ https://github.com/user-attachments/assets/0a1f4787-b11a-4542-8b15-bdd4cba46012
 
 File	Description
 Uber_Trip_Analysis.pbix	Power BI dashboard file
-Uber_Trip_Data.csv
-README.md	Project documentation
+Uber_Trip_Data.csv 
+    
+
+README.md Project documentation
+    https://github.com/arnavpathak10/UberDataAnalysisPowerBI/blob/main/README.md
+
 
 📈 Dashboard Features
 Dynamic slicers for Month, Week, Vehicle Type, and Payment Method
